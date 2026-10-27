@@ -1,0 +1,26 @@
+# Moi truong ao Python
+.venv/
+venv/
+env/
+ENV/
+
+# Thu vien va bo nho dem
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+site-packages/
+
+# File cau hinh va thu muc phu
+.vscode/
+.idea/
+.pytest_cache/
+.mypy_cache/
+
+# File tam
+*.tmp
+*.log
+~$*
+
+# Khong dua thu muc Git vao ban nop
+.git/
