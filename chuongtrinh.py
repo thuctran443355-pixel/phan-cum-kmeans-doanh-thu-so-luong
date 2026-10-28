@@ -1,6 +1,4 @@
-# BAI TAP LON PYTHON: PHAN CUM GIAO DICH SIEU THI BANG K-MEANS
-# Du lieu dau vao: du_lieu_sieu_thi.csv (1000 giao dich, 15 cot)
-# Chu y: File chua co ma san pham rieng nen chuong trinh PHAN CUM GIAO DICH.
+
 
 # BUOC 1. KHAI BAO THU VIEN
 import pandas as pd
